@@ -17,11 +17,11 @@ Important: this application uses various AWS services and there are costs associ
 
 1. Create a new directory, navigate to that directory in a terminal and clone the GitHub repository:
     ``` 
-    git clone https://github.com/aws-samples/serverless-patterns
+    git clone https://github.com/giusedroid/serverless-rag-python.git
     ```
 1. Change directory to the pattern directory:
     ```
-    cd apigw-lambda-bedrock-s3-rag
+    cd serverless-rag-python
     ```
 1. From the command line, use AWS SAM to deploy the AWS resources for the pattern as specified in the template.yml file:
     ```
